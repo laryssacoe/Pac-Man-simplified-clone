@@ -161,7 +161,9 @@ This image exemplifies the initial state of the game.
 
 The following videos demonstrate the functionality of game states.
 
-Link to the Google Drive: (https://drive.google.com/drive/folders/1pfUEgen30wV8ec6_VU-ikYC3GqENIn6S?usp=sharing)
+1. This [video](https://youtu.be/O6Kxkb-RFao) demonstrates the state of Game Over of the game as it starts near the winning state (249 points).
+2. This [video](https://youtu.be/1yStLZJJrzU) demonstrates the state of Game Over of the game as it starts with 0 points, and displays the resetting properties of the game.
+3. This [video](https://youtu.be/xec3aAX0Sns) demonstrates the state of Win of the game as it starts with 240 points, which displays how the user would win the game if they had eaten all circles without being eaten first. Starting with 240 points to accelerate the proccess in the video. 
 
 ## References
 
